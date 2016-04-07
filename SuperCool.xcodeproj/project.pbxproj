@@ -482,6 +482,7 @@
 				DAA98A291CA90AA800C2D409 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DAA98A2A1CA90AA800C2D409 /* Build configuration list for PBXNativeTarget "SuperCoolTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				DAA98A2C1CA90AA800C2D409 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DAA98A2D1CA90AA800C2D409 /* Build configuration list for PBXNativeTarget "SuperCoolUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +500,7 @@
 				DAA98A2F1CA90AA800C2D409 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
